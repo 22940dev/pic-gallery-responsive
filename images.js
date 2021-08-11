@@ -3,5 +3,7 @@ export default [
   "sky.jpg",
   "ravine.jpg",
   "thunder.jpg",
-  "waterfall.jpg"
+  "waterfall.jpg",
+  "IMG_0524.JPG",
+  "portrait.jpg"
 ];
